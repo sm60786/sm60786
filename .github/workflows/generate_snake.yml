@@ -1,8 +1,10 @@
 name: Generate Snake Contribution Graph
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day
+    - cron: "0 0 * * *"  # Runs once a day at midnight UTC
   workflow_dispatch:      # Allows manual execution
+
+permissions: write-all  # Required for pushing changes
 
 jobs:
   generate:
@@ -10,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures all commits are fetched
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -22,5 +26,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add dist/snake.svg
-          git commit -m "Generated snake contribution graph"
-          git push
+          git commit -m "Generated snake contribution graph" || echo "No changes to commit"
+          git push origin main
+
+      - name: Push to `output` Branch for Public Access
+        run: |
+          git branch -f output
+          git push -f origin output
