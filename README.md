@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/sm60786/sm60786/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sm60786/sm60786/dist/snake.svg)
 
 ###
