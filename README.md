@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sm60786/sm60786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sibaram Moharana and I'm a SDET at Shyena Solutions.</h2>
 
 ###
 
