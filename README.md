@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **GenAI** - AI-powered applications
+- 🔭 Currently working on **own-gpt-ai** - AI-powered applications
 - 🧪 SDET at **Shyena Solutions**
 - 🌱 Learning AI/ML and advanced automation techniques
 - 💡 Passionate about building intelligent test automation frameworks
@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sm60786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm60786&theme=dracula&hide_border=false" height="170" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=sm60786&theme=dracula&hide_border=false" height="170" alt="streak stats" />
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://youtube.com/@ModelMindML" target="_blank">
+  <a href="https://youtube.com/@sm60786" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/__sibaram" target="_blank">
