@@ -45,6 +45,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#"/>
 
+<br/><br/>
+
 **Test Automation**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium" title="Selenium"/>
@@ -53,13 +55,17 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" title="Postman"/>
 
+<br/><br/>
+
 **AI / ML**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="langchain" title="LangChain"/>
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" title="NumPy"/>
+
+<br/><br/>
 
 **DevOps & Tools**
 
@@ -70,6 +76,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" title="Jenkins"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub"/>
+
+<br/><br/>
 
 **Frontend**
 
@@ -91,7 +99,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-BD93F9?style=for-the-badge)
-![Fine--tuning](https://img.shields.io/badge/LLM_Fine--tuning-FF79C6?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-FF79C6?style=for-the-badge)
 
 ---
 
@@ -109,16 +117,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm60786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm60786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sm60786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm60786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sm60786&theme=dracula&hide_border=false" height="180" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=sm60786&theme=dracula&hide_border=false&cache_seconds=1800" height="180" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm60786&theme=dracula&hide_border=true&custom_title=Contribution%20Graph" width="90%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm60786&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="90%" alt="activity graph" />
 </div>
 
 ---
@@ -128,6 +136,16 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sm60786&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sm60786/sm60786/output/snake.svg)
 
 </div>
 
@@ -160,16 +178,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sm60786&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-### 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sm60786/sm60786/05f78703b2a98a63ff0188f0f89b1583fb5a641d/dist/snake.svg)
 
 </div>
 
