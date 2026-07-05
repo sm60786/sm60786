@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Sibaram Moharana
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=SDET+%40+Shyena+Solutions;AI+%26+RAG+Explorer;Building+own-gpt-ai;Automation+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;Local+LLMs+with+Ollama)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=SDET+%40+Shyena+Solutions;CI%2FCD+Pipeline+Engineer;Docker+%26+Kubernetes+Expert;AI+%26+RAG+Explorer;Building+own-gpt-ai;Automation+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,11 +11,12 @@
 ### 🚀 About Me
 
 - 🧪 **SDET @ Shyena Solutions** — building intelligent test automation frameworks
+- 🐳 Building **CI/CD pipelines** with Docker, Kubernetes & GitHub Actions daily
 - 🤖 Currently building **[own-gpt-ai](https://github.com/sm60786/own-gpt-ai)** — AI-powered applications
 - 🦙 Exploring **Local LLMs** with Ollama, LangChain, and RAG pipelines
 - 🔍 Working on **self-rag** — a private, local RAG system for QA & data analysis
 - 💡 Passionate about combining **AI + Testing** to build smarter tools
-- 📍 Based in **Bhopal, India**
+- 📍 Based in **Bangalore, India**
 - ⚡ Fun fact: I run LLMs locally so my data never leaves my machine!
 
 ---
@@ -23,10 +24,11 @@
 ### 🧠 What I'm Building
 
 ```
-🔭 own-gpt-ai     → AI-powered personal assistant
-🔍 self-rag       → Local RAG pipeline (Ollama + ChromaDB + LangChain)
-🧪 AI Test Tools  → Intelligent test case generation using LLMs
-📊 Data Analyzer  → NL queries on datasets using local models
+🔭 own-gpt-ai          → AI-powered personal assistant
+🔍 self-rag            → Local RAG pipeline (Ollama + ChromaDB + LangChain)
+🧪 pytest-report-gen   → PyTest HTML/JSON report generator (Dockerized + CI)
+🔐 StringEncryptor     → AES-256 CLI encryption tool (.NET 10)
+📊 Data Analyzer       → NL queries on datasets using local models
 ```
 
 ---
@@ -69,6 +71,9 @@
 
 **DevOps & Tools**
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" title="Kubernetes"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" title="GitHub Actions"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker"/>
@@ -107,6 +112,7 @@
 
 <div align="center">
 
+[![pytest-report-gen](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
 [![own-gpt-ai](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=own-gpt-ai&theme=dracula&hide_border=false)](https://github.com/sm60786/own-gpt-ai)
 [![self-rag](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=self-rag&theme=dracula&hide_border=false)](https://github.com/sm60786/self-rag)
 
