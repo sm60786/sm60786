@@ -126,15 +126,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm60786&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="90%" alt="activity graph" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sm60786&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
