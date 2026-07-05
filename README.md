@@ -24,9 +24,7 @@
 ### 🧠 What I'm Building
 
 ```
-🗄️  Text-2-Sql-Ollama    →  Natural language to SQL using local LLMs (Ollama)
-🐛 Status-Bug-Tracker    →  Bug & status tracking application
-📄 cv-maker              →  CV / Resume generator tool
+🐛 Status-Bug-Tracker    →  Jira-like bug & status tracking application
 🧪 pytest-report-gen     →  PyTest HTML/JSON report generator (Dockerized + CI)
 🔐 StringEncryptor       →  AES-256 CLI encryption tool (.NET 10)
 🏆 zerve-hackathon-2026  →  Hackathon project — Zerve 2026
@@ -102,12 +100,12 @@
 
 <div align="center">
 
-[![Text-2-Sql](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=Text-2-Sql-Using-OLLAMA&theme=dracula&hide_border=false)](https://github.com/sm60786/Text-2-Sql-Using-OLLAMA)
 [![Status-Bug-Tracker](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=Status-Bug-Tracker&theme=dracula&hide_border=false)](https://github.com/sm60786/Status-Bug-Tracker)
 [![pytest-report-gen](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
 [![zerve-hackathon-2026](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=zerve-hackathon-2026&theme=dracula&hide_border=false)](https://github.com/sm60786/zerve-hackathon-2026)
-[![cv-maker](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=cv-maker&theme=dracula&hide_border=false)](https://github.com/sm60786/cv-maker)
 [![halcyon-rice](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=halcyon-rice&theme=dracula&hide_border=false)](https://github.com/sm60786/halcyon-rice)
+[![StringEncryptor](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=StringEncryptor&theme=dracula&hide_border=false)](https://github.com/sm60786/StringEncryptor)
+[![Data-Analysis](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=Data-Analysis&theme=dracula&hide_border=false)](https://github.com/sm60786/Data-Analysis)
 
 </div>
 
@@ -153,6 +151,9 @@
 ### 📫 Connect with Me
 
 <div align="center">
+  <a href="https://sibaram.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
   <a href="https://linkedin.com/in/sibaramm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
