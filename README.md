@@ -12,9 +12,9 @@
 
 - 🧪 **SDET @ Shyena Solutions** — building intelligent test automation frameworks
 - 🐳 Building and maintaining **CI/CD pipelines** with Docker, Kubernetes & GitHub Actions daily
-- 🤖 Currently building **[own-gpt-ai](https://github.com/sm60786/own-gpt-ai)** — AI-powered applications
-- 🦙 Exploring **Local LLMs** with Ollama, LangChain, and RAG pipelines
-- 🔍 Working on **self-rag** — a private, local RAG system for QA & data analysis
+- 🤖 Exploring **Local LLMs** with Ollama — built [Text-2-SQL](https://github.com/sm60786/Text-2-Sql-Using-OLLAMA) using local models
+- 🎨 Running a custom **Hyprland** rice on Arch Linux — check out [halcyon-rice](https://github.com/sm60786/halcyon-rice)
+- 🏆 Competed in **Zerve Hackathon 2026**
 - 💡 Passionate about combining **AI + Testing** to build smarter tools
 - 📍 Based in **Bhopal, India**
 - ⚡ Fun fact: I run LLMs locally so my data never leaves my machine!
@@ -24,11 +24,13 @@
 ### 🧠 What I'm Building
 
 ```
-🔭 own-gpt-ai          →  AI-powered personal assistant
-🔍 self-rag            →  Local RAG pipeline (Ollama + ChromaDB + LangChain)
-🧪 pytest-report-gen   →  PyTest HTML/JSON report generator (Dockerized + CI)
-🔐 StringEncryptor     →  AES-256 CLI encryption tool (.NET 10)
-📊 Data Analyzer       →  NL queries on datasets using local models
+🗄️  Text-2-Sql-Ollama    →  Natural language to SQL using local LLMs (Ollama)
+🐛 Status-Bug-Tracker    →  Bug & status tracking application
+📄 cv-maker              →  CV / Resume generator tool
+🧪 pytest-report-gen     →  PyTest HTML/JSON report generator (Dockerized + CI)
+🔐 StringEncryptor       →  AES-256 CLI encryption tool (.NET 10)
+🏆 zerve-hackathon-2026  →  Hackathon project — Zerve 2026
+🎨 halcyon-rice          →  Hyprland desktop environment dotfiles & rice
 ```
 
 ---
@@ -58,6 +60,14 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🖥️ Desktop Environment**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty_Terminal-F7931E?style=for-the-badge&logoColor=white)
+![Waybar](https://img.shields.io/badge/Waybar-BD93F9?style=for-the-badge&logoColor=white)
 
 **AI / ML**
 
@@ -92,10 +102,12 @@
 
 <div align="center">
 
-[![own-gpt-ai](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=own-gpt-ai&theme=dracula&hide_border=false)](https://github.com/sm60786/own-gpt-ai)
-[![self-rag](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=self-rag&theme=dracula&hide_border=false)](https://github.com/sm60786/self-rag)
+[![Text-2-Sql](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=Text-2-Sql-Using-OLLAMA&theme=dracula&hide_border=false)](https://github.com/sm60786/Text-2-Sql-Using-OLLAMA)
+[![Status-Bug-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=Status-Bug-Tracker&theme=dracula&hide_border=false)](https://github.com/sm60786/Status-Bug-Tracker)
 [![pytest-report-gen](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
-[![StringEncryptor](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=StringEncryptor&theme=dracula&hide_border=false)](https://github.com/sm60786/StringEncryptor)
+[![zerve-hackathon-2026](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=zerve-hackathon-2026&theme=dracula&hide_border=false)](https://github.com/sm60786/zerve-hackathon-2026)
+[![cv-maker](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=cv-maker&theme=dracula&hide_border=false)](https://github.com/sm60786/cv-maker)
+[![halcyon-rice](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=halcyon-rice&theme=dracula&hide_border=false)](https://github.com/sm60786/halcyon-rice)
 
 </div>
 
@@ -104,12 +116,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm60786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm60786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sm60786&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm60786&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sm60786&theme=dracula&hide_border=false&cache_seconds=1800" height="180" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=sm60786&theme=dracula&hide_border=false" height="180" alt="streak stats" />
 </div>
 
 <div align="center">
@@ -122,7 +134,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sm60786&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sm60786&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
