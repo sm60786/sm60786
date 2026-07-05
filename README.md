@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there 👋 I'm Sibaram Moharana
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header&text=Sibaram%20Moharana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20DevOps%20%7C%20AI%20Explorer&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=SDET+%40+Shyena+Solutions;CI%2FCD+Pipeline+Engineer;Docker+%26+Kubernetes+Expert;AI+%26+RAG+Explorer;Building+own-gpt-ai;Automation+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=SDET+%40+Shyena+Solutions;CI%2FCD+Pipeline+Engineer;Docker+%26+Kubernetes+Expert;AI+%26+RAG+Explorer;Building+own-gpt-ai;Automation+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;Local+LLMs+with+Ollama)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,12 +11,12 @@
 ### 🚀 About Me
 
 - 🧪 **SDET @ Shyena Solutions** — building intelligent test automation frameworks
-- 🐳 Building **CI/CD pipelines** with Docker, Kubernetes & GitHub Actions daily
+- 🐳 Building and maintaining **CI/CD pipelines** with Docker, Kubernetes & GitHub Actions daily
 - 🤖 Currently building **[own-gpt-ai](https://github.com/sm60786/own-gpt-ai)** — AI-powered applications
 - 🦙 Exploring **Local LLMs** with Ollama, LangChain, and RAG pipelines
 - 🔍 Working on **self-rag** — a private, local RAG system for QA & data analysis
 - 💡 Passionate about combining **AI + Testing** to build smarter tools
-- 📍 Based in **Bangalore, India**
+- 📍 Based in **Bhopal, India**
 - ⚡ Fun fact: I run LLMs locally so my data never leaves my machine!
 
 ---
@@ -24,11 +24,11 @@
 ### 🧠 What I'm Building
 
 ```
-🔭 own-gpt-ai          → AI-powered personal assistant
-🔍 self-rag            → Local RAG pipeline (Ollama + ChromaDB + LangChain)
-🧪 pytest-report-gen   → PyTest HTML/JSON report generator (Dockerized + CI)
-🔐 StringEncryptor     → AES-256 CLI encryption tool (.NET 10)
-📊 Data Analyzer       → NL queries on datasets using local models
+🔭 own-gpt-ai          →  AI-powered personal assistant
+🔍 self-rag            →  Local RAG pipeline (Ollama + ChromaDB + LangChain)
+🧪 pytest-report-gen   →  PyTest HTML/JSON report generator (Dockerized + CI)
+🔐 StringEncryptor     →  AES-256 CLI encryption tool (.NET 10)
+📊 Data Analyzer       →  NL queries on datasets using local models
 ```
 
 ---
@@ -39,60 +39,41 @@
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#"/>
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Test Automation**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium" title="Selenium"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" title="Pytest"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" title="Postman"/>
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/><br/>
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI / ML**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" title="NumPy"/>
-
-<br/><br/>
-
-**DevOps & Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" title="Kubernetes"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" title="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" title="Jenkins"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub"/>
-
-<br/><br/>
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -100,11 +81,10 @@
 
 ### 🌱 Currently Learning
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-BD93F9?style=for-the-badge)
 ![Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-FF79C6?style=for-the-badge)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
@@ -112,9 +92,10 @@
 
 <div align="center">
 
-[![pytest-report-gen](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
 [![own-gpt-ai](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=own-gpt-ai&theme=dracula&hide_border=false)](https://github.com/sm60786/own-gpt-ai)
 [![self-rag](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=self-rag&theme=dracula&hide_border=false)](https://github.com/sm60786/self-rag)
+[![pytest-report-gen](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
+[![StringEncryptor](https://github-readme-stats.vercel.app/api/pin/?username=sm60786&repo=StringEncryptor&theme=dracula&hide_border=false)](https://github.com/sm60786/StringEncryptor)
 
 </div>
 
@@ -189,9 +170,9 @@
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=80&section=footer" width="100%"/>
 
-### 💜 Thanks for visiting!
+<div align="center">
 
 **"Automate everything. Understand everything. Build with AI."**
 
