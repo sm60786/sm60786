@@ -102,20 +102,23 @@
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| [🗄️ Text-2-Sql-Using-OLLAMA](https://github.com/sm60786/Text-2-Sql-Using-OLLAMA) | Natural language to SQL via local LLMs | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000?style=flat) |
-| [🐛 Status-Bug-Tracker](https://github.com/sm60786/Status-Bug-Tracker) | Bug & status tracking application | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [🧪 pytest-report-gen-CLI](https://github.com/sm60786/pytest-report-gen-CLI) | PyTest HTML/JSON report generator | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| [🏆 zerve-hackathon-2026](https://github.com/sm60786/zerve-hackathon-2026) | Zerve Hackathon 2026 project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [📄 cv-maker](https://github.com/sm60786/cv-maker) | CV / Resume generator tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [🎨 halcyon-rice](https://github.com/sm60786/halcyon-rice) | Hyprland dotfiles & desktop rice | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+[![Text-2-Sql](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=Text-2-Sql-Using-OLLAMA&theme=dracula&hide_border=false)](https://github.com/sm60786/Text-2-Sql-Using-OLLAMA)
+[![Status-Bug-Tracker](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=Status-Bug-Tracker&theme=dracula&hide_border=false)](https://github.com/sm60786/Status-Bug-Tracker)
+[![pytest-report-gen](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=pytest-report-gen-CLI&theme=dracula&hide_border=false)](https://github.com/sm60786/pytest-report-gen-CLI)
+[![zerve-hackathon-2026](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=zerve-hackathon-2026&theme=dracula&hide_border=false)](https://github.com/sm60786/zerve-hackathon-2026)
+[![cv-maker](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=cv-maker&theme=dracula&hide_border=false)](https://github.com/sm60786/cv-maker)
+[![halcyon-rice](https://github-readme-stats-iota-navy-34.vercel.app/api/pin/?username=sm60786&repo=halcyon-rice&theme=dracula&hide_border=false)](https://github.com/sm60786/halcyon-rice)
 
 </div>
 
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-iota-navy-34.vercel.app/api?username=sm60786&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-iota-navy-34.vercel.app/api/top-langs?username=sm60786&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages graph" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sm60786&theme=dracula&hide_border=false" height="180" alt="streak stats" />
